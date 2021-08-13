@@ -1,2 +1,2 @@
 # cartesian-fun
-Cartesian Fun!! And suffering. I want Desmos to be more programmatic so watch me suffer. Heck! Suffer with me if you want.
+Cartesian Fun!! And suffering. I want a more programmatic Graphing Calculator so watch me suffer. Heck! Suffer with me if you want.
